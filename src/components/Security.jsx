@@ -16,7 +16,7 @@ const Security = () => {
       </header>
       <div className="content">
         <Swiper
-          pslidesPerView={1}
+          slidesPerView={1}
           centeredSlides={true}
           spaceBetween={30}
           pagination={true}

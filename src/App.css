@@ -537,7 +537,7 @@ section {
 .sec6 .bgImg::before {
   @apply absolute top-0 left-0 h-full w-full z-10;
   content: "";
-  background: url("./assets/images/mSec6.png") no-repeat center
+  background: url("./assets/images/sec6.png") no-repeat center
     center/cover;
 }
 .sec6 .bgImg > * {
